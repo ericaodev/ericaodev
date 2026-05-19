@@ -80,21 +80,15 @@ Automação de anúncios, geração de conteúdo, scraping e sistemas inteligent
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericaodev&show_icons=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ericaodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaodev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ericaodev&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaodev&layout=compact" />
+</p>
 
 ---
 
